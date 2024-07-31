@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 흑건 블로그 # the main title
+title: 4대역학 정리 # the main title
 
-tagline: 수치해석 + 기계공학 + 취미 # it will display as the sub-title
+tagline: 수치해석 + 기계공학 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   기계공학, 수치해석, 전산유체역학
